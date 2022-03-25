@@ -2,7 +2,7 @@
 /* Q2: Creating a BMI Calculator; 
  * Submitted by: Jorich Ponio - C0818858
  */
-namespace bmiCalculatorJorichP
+namespace bmiCalculator
 {
     internal class Program
     {
